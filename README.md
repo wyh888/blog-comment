@@ -1,2 +1,3 @@
 # blog-comment
-blog's comment
+
+存放博客中的评论内容
